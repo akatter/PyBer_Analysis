@@ -24,7 +24,7 @@ One significant trend is that as cities get more dense from rural to urban, the 
 
 The second item produced for analysis was a multiline plot to illustrate the total fares between 2019-01-01 through 2019-04-28. These were binned into weekly data points and divided by city type.
 
-![Multiline Plot of Total Fares by City Type, Weekly](analysis/PyBer_faresummary.png)
+![Multiline Plot of Total Fares by City Type, Weekly](analysis/PyBer_fare_summary.png)
 
 The plot illustrates clearly as how a city is denser from rural to urban, the total fares recieved increase, with urban zones having the highest total fares. Overall the trends for all three types were similar with similar dips and highs. Although Urban and suburban zones had a more noticable dip at the beginning of the year compared to rural zones.
 
